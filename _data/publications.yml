@@ -1,0 +1,15 @@
+- title: "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments"
+  venue: "Conference on Artificial Intelligence (COAI 2025)"
+  year: 2025
+  status: "accepted"
+  code_url: "https://github.com/trisypandi/optimizing-llms-contextual-reasoning"
+- title: "Unknown COML 2025 Paper"
+  venue: "Conference on Machine Learning (COML 2025)"
+  year: 2025
+  status: "accepted"
+  code_url: "https://github.com/trisypandi/llm-adaptive-learning"
+- title: "Unknown COLM 2025 Paper"
+  venue: "Conference on Language Modeling (COLM 2025)"
+  year: 2025
+  status: "accepted"
+  code_url: "https://github.com/trisypandi/enhancing-llms"
